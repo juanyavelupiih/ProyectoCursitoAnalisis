@@ -1,0 +1,9 @@
+c:\users\yaira\documents\visual studio 2015\Projects\Recupereme señor\Recupereme señor\bin\Debug\Recupereme señor.exe.config
+c:\users\yaira\documents\visual studio 2015\Projects\Recupereme señor\Recupereme señor\bin\Debug\Recupereme señor.exe
+c:\users\yaira\documents\visual studio 2015\Projects\Recupereme señor\Recupereme señor\bin\Debug\Recupereme señor.pdb
+c:\users\yaira\documents\visual studio 2015\Projects\Recupereme señor\Recupereme señor\obj\Debug\Recupereme señor.csprojResolveAssemblyReference.cache
+c:\users\yaira\documents\visual studio 2015\Projects\Recupereme señor\Recupereme señor\obj\Debug\Recupereme_señor.Form1.resources
+c:\users\yaira\documents\visual studio 2015\Projects\Recupereme señor\Recupereme señor\obj\Debug\Recupereme_señor.Properties.Resources.resources
+c:\users\yaira\documents\visual studio 2015\Projects\Recupereme señor\Recupereme señor\obj\Debug\Recupereme señor.csproj.GenerateResource.Cache
+c:\users\yaira\documents\visual studio 2015\Projects\Recupereme señor\Recupereme señor\obj\Debug\Recupereme señor.exe
+c:\users\yaira\documents\visual studio 2015\Projects\Recupereme señor\Recupereme señor\obj\Debug\Recupereme señor.pdb
